@@ -1,0 +1,15 @@
+{
+  "name": "gifcompress",
+  "version": "1.0.0",
+  "description": "big gif file compress",
+  "main": "gif.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sbaway",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^6.0.0",
+    "imagemin-gifsicle": "^5.2.0"
+  }
+}
